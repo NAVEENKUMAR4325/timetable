@@ -150,4 +150,7 @@ Execute the program
 </html>
 
 # OUTPUT
-![Timetable](images/timetable.png)
+![Timetable](images/timetable1.png)
+
+# RESULT
+Html webage to display my timetable executed succesfully
