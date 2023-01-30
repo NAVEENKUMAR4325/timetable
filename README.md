@@ -151,7 +151,8 @@ Execute the program
 </html>
 ```
 # OUTPUT
-[timetable.html.pdf](https://github.com/NAVEENKUMAR4325/timetable/files/10537390/timetable.html.pdf)
+![timetable1](https://user-images.githubusercontent.com/119479566/215527807-a90e0714-8a94-4c95-abb5-2c77b417cb77.png)
+
 
 
 # RESULT
