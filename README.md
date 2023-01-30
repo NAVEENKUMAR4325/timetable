@@ -151,7 +151,8 @@ Execute the program
 </html>
 ```
 # OUTPUT
-![Timetable](images/timetable1.png)
+[timetable.html.pdf](https://github.com/NAVEENKUMAR4325/timetable/files/10537390/timetable.html.pdf)
+
 
 # RESULT
 Html webage to display my timetable executed succesfully
